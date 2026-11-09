@@ -21,3 +21,4 @@ go.work.sum
 # OS metadata
 .DS_Store
 Thumbs.db
+/hawkeye
